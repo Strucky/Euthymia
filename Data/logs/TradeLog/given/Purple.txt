@@ -1,0 +1,34 @@
+
+Year : 2013	Month : 7	Day : 10
+Given 1 Elysian spirit shield To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 2 Ranger boots To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 10 Abyssal whip To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 10 Dragon boots To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Elysian spirit shield To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 4 Amulet of fury To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 65 Drag dagger(p++) To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 4500 Runite bolts To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 7500 Dragon bolts (e) To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 5000 Rune arrow To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Slayer helmet To Red
+--------------------------------------------------

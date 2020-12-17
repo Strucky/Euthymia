@@ -1,0 +1,49 @@
+
+Year : 2013	Month : 7	Day : 9
+Given 1 Loop half of a key To Exposure
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 9
+Given 1 Black platebody (g) To Expose skill
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Spade To Live
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 1 Monkfish To Kendal
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 1 Monkfish To Willow
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 1 Guthan's body 0 To Apox
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 1 Amulet of fury To Apox
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 1 Dragon defender To Apox
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 1 Guthan's helm 0 To Apox
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 1 Guthan's skirt 0 To Apox
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 1 Abyssal tentacle To Apox
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 1 Armadyl godsword To Apox
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 12
+Given 5 Dwarf weed seed To Soft
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 12
+Given 5 Torstol seed To Soft
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 13
+Given 1 Monkfish To Lake
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 13
+Given 1500000000 Coins To Lad
+--------------------------------------------------

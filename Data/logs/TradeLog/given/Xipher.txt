@@ -1,0 +1,43 @@
+
+Year : 2017	Month : 6	Day : 13
+Given 30 Iron arrow To F o x
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 13
+Given 20 Iron arrow To F o x
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 2415 Coins To C o k e
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 39687 Coins To Caboose
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 428988 Coins To Caboose
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 276 Raw monkfish To C o k e
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 353756 Coins To Caboose
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 129 Harralander seed To Nkedfoxy
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 50 Ranarr seed To Nkedfoxy
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 78 Tarromin seed To Nkedfoxy
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 68 Marrentill seed To Nkedfoxy
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 60 Guam seed To Nkedfoxy
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 1 Seed dibber To Nkedfoxy
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 1 Rake To Nkedfoxy
+--------------------------------------------------

@@ -1,0 +1,25 @@
+
+Year : 2013	Month : 7	Day : 12
+Given 1000 Nature rune To Dark bow
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 12
+Given 1 Green dragon mask To Osmanteri
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 12
+Given 1 Rune full helm (t) To Osmanteri
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 12
+Given 1 Rune plateskirt (t) To Osmanteri
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 12
+Given 1 Black platebody (t) To Osmanteri
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 13
+Given 5000000 Coins To Peruna
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 13
+Given 1 Rune platelegs To Peruna
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 13
+Given 1 Helm of neitiznot To Peruna
+--------------------------------------------------

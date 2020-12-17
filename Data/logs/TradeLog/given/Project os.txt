@@ -1,0 +1,58 @@
+
+Year : 2013	Month : 7	Day : 10
+Given 1 Dwarven stout To Willow
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Ring of recoil To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Obsidian cape To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Lederhosen hat To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Mime legs To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Helm of neitiznot To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Amulet of strength To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Bones To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Guthan's warspear To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Leather gloves To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Rune platelegs To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Verac's brassard To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Leather gloves To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Mime legs To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Amulet of strength To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Lederhosen hat To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Helm of neitiznot To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Obsidian cape To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Toxic naphtha To Brzurk
+--------------------------------------------------

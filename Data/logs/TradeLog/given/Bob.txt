@@ -1,0 +1,274 @@
+
+Year : 2017	Month : 6	Day : 11
+Given 5 Varrock teleport To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 5 Camelot teleport To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 2 Lumbridge teleport To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 5 Falador teleport To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 5 Ardougne teleport To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 5 Watchtower t'port To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 102 Lobster To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 10 Shark To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 3 Raw shrimps To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Air talisman To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 3 Bronze pickaxe To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 2 Leather gloves To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 9 Raw anchovies To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 22 Rake To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 2 Flax To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Black ele' shirt To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Small fishing net To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 2 Banana To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 'perfect' gold bar To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Black ele' legs To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 100000 Coins To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Dragon pickaxe To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Holy symbol To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 251 Mithril bolts To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 30 Mithril arrow To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 3 Iron arrow To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 2 Coins To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Varrock teleport To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Small fishing net To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 4897 Coins To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 25 Cooked meat To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Iron platelegs To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Bronze chainbody To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Iron full helm To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 100 Fire rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 100 Mind rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 100 Earth rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 100 Water rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 100 Air rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Flax To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Banana To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Banana To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Rake To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 500 Coins To Aguilar
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 9 Climbing boots To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 3 Amulet of power To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 10 Ring of recoil To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 11 Monk's robe To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 11 Monk's robe To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 2 Team-46 cape To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 3 Amulet of strength To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 16516 Coins To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 100 Nature rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 400 Air rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 2 Dwarf weed seed To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 7 Tarromin seed To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 6 Torstol seed To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 9 Harralander seed To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 3 Avantoe seed To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 5 Cadantine seed To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 11 Irit seed To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 5 Guam seed To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 7 Kwuarm seed To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 1 Snapdragon seed To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 350 Mithril bolts To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 1 Mystic robe bottom To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 1 Mystic hat To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 1 Mystic robe top To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 400 Earth rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 100 Death rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 400 Fire rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 100 Cosmic rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 100 Chaos rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 350 Mithril arrow To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 334 Iron arrow To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 350 Steel arrow To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 400 Water rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 100 Law rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 100 Astral rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 400 Mind rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 1 Staff of fire To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 1 Staff of fire To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 1 Staff of fire To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 1 Mystic boots To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 1 Mystic gloves To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 3 Bronze pickaxe To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 2 Tinderbox To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 2 Bones To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 3 Bronze axe To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 878 Coins To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 1 Fly fishing rod To Warren pop
+--------------------------------------------------

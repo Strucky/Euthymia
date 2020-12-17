@@ -1,0 +1,82 @@
+
+Year : 2017	Month : 6	Day : 12
+Given 100 Dwarf weed seed To Day
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 2983609 Coins To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 427 Varrock teleport To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 397 Lumbridge teleport To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 398 Falador teleport To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 7670 Dragon bolts (e) To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 199 Camelot teleport To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 490 Chaos rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 500 Cosmic rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 1885 Air rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 504 Nature rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 500 Astral rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 504 Death rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 499 Law rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 1886 Fire rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 250 Mithril bolts To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 14240 Vial of water To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 250 Steel arrow To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 250 Mithril arrow To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 1 Rune scimitar To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 250 Iron arrow To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 1300 Runite bolts To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 1844 Water rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 1884 Earth rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 1885 Mind rune To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 397 Watchtower t'port To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 397 Ardougne teleport To Warren pop
+--------------------------------------------------

@@ -1,0 +1,34 @@
+
+Year : 2013	Month : 7	Day : 10
+Given 13804720 Coins To Zing king
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 13804720 Coins To Zing king
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 27609440 Coins To Zing king
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 55218880 Coins To Zing king
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 110437760 Coins To Zing king
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 220875520 Coins To Zing king
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 441751040 Coins To Zing king
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 883502080 Coins To Zing king
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1767004160 Coins To Zing king
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 2147483647 Coins To Zing king
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 2141100947 Coins To Torstol
+--------------------------------------------------

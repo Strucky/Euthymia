@@ -1,0 +1,46 @@
+
+Year : 2017	Month : 6	Day : 11
+Given 5000 Coins To Bob
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 25 Cooked meat To Bob
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Team-27 cape To Bob
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Iron platelegs To Bob
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Bronze chainbody To Bob
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Bronze sword To Bob
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Iron full helm To Bob
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Amulet of strength To Bob
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 100 Earth rune To Bob
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 100 Mind rune To Bob
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 100 Fire rune To Bob
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 100 Air rune To Bob
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 100 Water rune To Bob
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Shortbow To Bob
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 50 Iron arrow To Bob
+--------------------------------------------------

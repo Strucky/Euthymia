@@ -1,0 +1,25 @@
+
+Year : 2017	Month : 6	Day : 1
+Given 1 Iron full helm To Eduardo
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 1
+Given 1 Iron platebody To Eduardo
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 1
+Given 1 Iron scimitar To Eduardo
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 1
+Given 1 Iron platelegs To Eduardo
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 1
+Given 1 Cabbage To Eduardo
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 1
+Given 1 Cabbage To Eduardo
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 1
+Given 1 Cabbage To Eduardo
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 1
+Given 1 Cabbage To Eduardo
+--------------------------------------------------

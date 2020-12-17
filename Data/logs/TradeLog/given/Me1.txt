@@ -1,0 +1,13 @@
+
+Year : 2017	Month : 6	Day : 10
+Given 756 Raw monkfish To Mega
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 10
+Given 198 Raw tuna To Mega
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 10
+Given 206 Raw swordfish To Mega
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 10
+Given 266 Raw lobster To Mega
+--------------------------------------------------

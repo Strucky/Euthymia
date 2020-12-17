@@ -1,0 +1,316 @@
+
+Year : 2017	Month : 6	Day : 11
+Received 1 Lobster From Day
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 1 Lobster From Day
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 1 Lobster From Day
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 1 Lobster From Day
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 1 Lobster From Day
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 1 Lobster From Day
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 1 Lobster From Day
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 100 Lobster From Caboose
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 1 Mithril sword From Caboose
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 1 Rune spear From Caboose
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 1 Steel scimitar From Caboose
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 1 Air talisman From Caboose
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 4 Varrock teleport From Caboose
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 1 Proselyte sallet From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 5000 Coins From Warren
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 25 Cooked meat From Warren
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 1 Team-27 cape From Warren
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 1 Iron platelegs From Warren
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 1 Bronze chainbody From Warren
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 1 Bronze sword From Warren
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 1 Iron full helm From Warren
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 1 Amulet of strength From Warren
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 100 Earth rune From Warren
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 100 Mind rune From Warren
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 100 Fire rune From Warren
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 100 Air rune From Warren
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 100 Water rune From Warren
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 1 Shortbow From Warren
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 50 Iron arrow From Warren
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Received 20 Pike From Aguilar
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 3 Amulet of power From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 3 Amulet of strength From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Nulodion's notes From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Nulodion's notes From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Nulodion's notes From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Nulodion's notes From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Nulodion's notes From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 21 Shrimps From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 46 Anchovies From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 102 Herring From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 90 Sardine From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 2 Banana From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly bottoms From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly bottoms From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly bottoms From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly bottoms From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly bottoms From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly bottoms From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly bottoms From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly bottoms From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly bottoms From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly bottoms From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 11 Team-46 cape From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 41 Cooked meat From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 16 Monk's robe From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 16 Monk's robe From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 5 Small fishing net From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly boots From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly boots From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly boots From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly boots From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly boots From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly boots From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly boots From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly boots From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly boots From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly boots From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 2 Big fishing net From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 2 Fishing rod From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Fly fishing rod From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 100 Fishing bait From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly robetop From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly robetop From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly robetop From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly robetop From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly robetop From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly robetop From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly robetop From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly robetop From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly robetop From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly robetop From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Fancy boots From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Fly fishing rod From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly hood From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly hood From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly hood From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly hood From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly hood From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly hood From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly hood From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly hood From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly hood From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Ghostly hood From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Leather gloves From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Leather gloves From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Iron full helm From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Team-27 cape From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Iron platelegs From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Amulet of strength From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Bronze chainbody From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Bronze sword From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 108 Fishing bait From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 1 Fly fishing rod From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 8 Herring From Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Received 12 Sardine From Warren pop
+--------------------------------------------------

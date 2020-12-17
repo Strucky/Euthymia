@@ -1,0 +1,214 @@
+
+Year : 2013	Month : 7	Day : 9
+Given 1 Abyssal whip To Salayer
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 1 Abyssal whip To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 1 Dragon boots To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 1 Ring of wealth To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 1454 Rune essence To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 36 Super strength(4) To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 310 Monkfish To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 54 Dragon bolts (e) To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 43 Dragon bones To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 22 Super attack(3) To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 32 Super attack(4) To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 45 Prayer potion(4) To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 23 Super restore(4) To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 261928 Coins To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 23 Saradomin brew(4) To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 1 Dragon spear To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 1 Dragon scimitar To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 19 Rune scimitar To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 9 Rune 2h sword To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 11 Rune med helm To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 5 Rune platelegs To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 14 Rune spear To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 6 Dragon med helm To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 614 Nature rune To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 273 Chaos rune To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 160 Death rune To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 51 Herb To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 25 Herb To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 1 Herb To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 27 Herb To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 2 Herb To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 12 Herb To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 25 Grimy toadflax To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 25 Herb To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 34 Herb To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 255 Vial of water To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 17 Torstol seed To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 1 Uncut dragonstone To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 7 Lantadyme seed To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 1 Rune plateskirt To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 7 Dwarf weed seed To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 7 Cadantine seed To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 25 Snapdragon seed To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 6 Kwuarm seed To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 15 Avantoe seed To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 112 Rune javelin To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 2 Dragon scimitar To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 10 Irit seed To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 44 Toadflax seed To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 9 Guam seed To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 10 Marrentill seed To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 19 Harralander seed To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 26 Ranarr seed To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 50 Grimy snapdragon To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 91 Herb To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 23 Grimy lantadyme To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 6 Herb To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 37 Mithril ore To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 17 Coal To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 60 Blue dragonhide To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 24 Irit seed To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 231 Raw lobster To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 140 Raw monkfish To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 60 Raw shark To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 168 Ruby To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 60 Maple logs To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 45 Yew logs To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 96 Uncut diamond To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 33 Uncut dragonstone To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 1 Dark cavalier To Dale
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 11
+Given 2 Rune axe To Dale
+--------------------------------------------------

@@ -1,0 +1,34 @@
+
+Year : 2017	Month : 6	Day : 13
+Given 216 Raw lobster To Bigshot
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 13
+Given 50 Raw anchovies To Bigshot
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 13
+Given 35 Raw shrimps To Bigshot
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 13
+Given 96 Raw sardine To Bigshot
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 13
+Given 105 Raw herring To Bigshot
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 13
+Given 179 Raw tuna To Bigshot
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 13
+Given 199 Raw swordfish To Bigshot
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 13
+Given 25 Raw lobster To Bigshot
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 435 Raw swordfish To Bigshot
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 411 Raw tuna To Bigshot
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 103 Raw lobster To Bigshot
+--------------------------------------------------

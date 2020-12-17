@@ -1,0 +1,19 @@
+
+Year : 2017	Month : 6	Day : 14
+Given 39 Tuna To Xipher
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 31 Shrimps To Xipher
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 33 Anchovies To Xipher
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 43 Mackerel To Xipher
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 276 Raw monkfish To Xipher
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 251 Monkfish To Xipher
+--------------------------------------------------

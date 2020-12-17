@@ -1,0 +1,67 @@
+
+Year : 2013	Month : 7	Day : 10
+Given 15 Verac's brassard To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 10 Verac's helm To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 25 Dharok's platebody To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 25 Dharok's platelegs To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Armadyl c'bow To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 20 Karil's leathertop To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 20 Karil's leatherskirt To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 10 Verac's flail To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 24 Dharok's greataxe To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 22 Dharok's helm To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 10 Verac's plateskirt To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 65000000 Coins To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 9500 Blood rune To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 9500 Water rune To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 9500 Death rune To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 9500 Astral rune To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 9500 Earth rune To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 9500 Chaos rune To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 18 Torag's platelegs To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 18 Torag's platebody To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 20 Ahrim's robeskirt To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 20 Ahrim's robetop To Red
+--------------------------------------------------

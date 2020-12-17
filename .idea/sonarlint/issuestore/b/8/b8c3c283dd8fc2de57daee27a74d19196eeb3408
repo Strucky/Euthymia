@@ -1,0 +1,114 @@
+
+D
+java:S2440g")Remove this instantiation of "MageKills".(åô§ßüÿÿÿÿ
+M
+java:S1444>"8Make this "public static serverlistenerPort" field final(ìâ	
+o
+java:S1104D"YMake objectManager a static final constant or non-public and provide accessors if needed.(ğ’Ÿ¼
+E
+java:S1444G"0Make this "public static fightCaves" field final(ëéÙ&
+E
+java:S2440f"/Remove this instantiation of "ChallengePoints".(À­Å
+k
+java:S3008L"PRename this field "TIMES" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´½Ÿ’şÿÿÿÿ
+L
+java:S1444?"1Make this "public static itemHandler" field final(º¬Ææúÿÿÿÿ
+J
+java:S1444E"/Make this "public static fightPits" field final(÷²Ú´ÿÿÿÿÿ
+I
+java:S1444D"3Make this "public static objectManager" field final(ğ’Ÿ¼
+w
+java:S1104;"aMake shutdownClientHandler a static final constant or non-public and provide accessors if needed.(ÓøşÚ
+L
+java:S1444I"6Make this "public static doubleEXPWeekend" field final(ªâñÙ
+F
+java:S1444L"+Make this "public static TIMES" field final(´½Ÿ’şÿÿÿÿ
+V	java:S125&"<This block of commented-out lines of code should be removed.(€‚åáúÿÿÿÿ
+k
+java:S1104G"VMake fightCaves a static final constant or non-public and provide accessors if needed.(ëéÙ&
+‡
+java:S1130^"lRemove the declaration of thrown exception 'java.io.IOException', as it cannot be thrown from method's body.(å˜Ù¨ùÿÿÿÿ
+H
+java:S14447"2Make this "public static UpdateServer" field final(Ùí‰¤
+m
+java:S30087"WRename this field "UpdateServer" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ùí‰¤
+@
+java:S2440h"*Remove this instantiation of "MeleeKills".(Ó²†Æ
+J
+java:S1444:"4Make this "public static shutdownServer" field final(±Ú”
+s
+java:S1104>"^Make serverlistenerPort a static final constant or non-public and provide accessors if needed.(ìâ	
+r
+java:S1104B"WMake shopHandler a static final constant or non-public and provide accessors if needed.(Ş®‰ëùÿÿÿÿ
+N
+java:S1444C"3Make this "public static objectHandler" field final(Ê½Òœøÿÿÿÿ
+l
+java:S1104A"VMake npcHandler a static final constant or non-public and provide accessors if needed.(’Ä‹Ø
+n
+java:S1104@"YMake playerHandler a static final constant or non-public and provide accessors if needed.(ØÒŸ)
+E
+java:S2440i"*Remove this instantiation of "RangeKills".(œ¶¤İùÿÿÿÿ
+p
+java:S1104E"UMake fightPits a static final constant or non-public and provide accessors if needed.(÷²Ú´ÿÿÿÿÿ
+H
+java:S1444@"3Make this "public static playerHandler" field final(ØÒŸ)
+N	java:S106}"9Replace this use of System.out or System.err by a logger.(ÆÀûı
+v
+java:S1104‰"ZMake playerExecuted a static final constant or non-public and provide accessors if needed.(îŒ¤úÿÿÿÿ
+t
+java:S11043"YMake playerManager a static final constant or non-public and provide accessors if needed.(‡òã›şÿÿÿÿ
+L
+java:S14442"1Make this "public static clanManager" field final(Íüùÿÿÿÿ
+r
+java:S1104?"WMake itemHandler a static final constant or non-public and provide accessors if needed.(º¬Ææúÿÿÿÿ
+r
+java:S1104I"\Make doubleEXPWeekend a static final constant or non-public and provide accessors if needed.(ªâñÙ
+N
+java:S14443"3Make this "public static playerManager" field final(‡òã›şÿÿÿÿ
+L
+java:S1444B"1Make this "public static shopHandler" field final(Ş®‰ëùÿÿÿÿ
+o	java:S1156"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(¤³ÄÀ
+O	java:S106€"9Replace this use of System.out or System.err by a logger.(™Û¶
+N	java:S106"9Replace this use of System.out or System.err by a logger.(›ó¤€
+p
+java:S1104="ZMake canLoadObjects a static final constant or non-public and provide accessors if needed.(ÓĞĞ
+V	java:S125"<This block of commented-out lines of code should be removed.(¸É‡Úşÿÿÿÿ
+j
+java:S11045"TMake sleeping a static final constant or non-public and provide accessors if needed.(Â‚œÛ
+8
+java:S2386L"Make this member "protected".(´½Ÿ’şÿÿÿÿ
+r
+java:S11042"WMake clanManager a static final constant or non-public and provide accessors if needed.(Íüùÿÿÿÿ
+N	java:S106|"9Replace this use of System.out or System.err by a logger.(™Û¶
+Q
+java:S1444;";Make this "public static shutdownClientHandler" field final(ÓøşÚ
+F
+java:S1444A"0Make this "public static npcHandler" field final(’Ä‹Ø
+S
+java:S1197^"8Move the array designator from the variable to the type.(å˜Ù¨ùÿÿÿÿ
+t
+java:S1104C"YMake objectHandler a static final constant or non-public and provide accessors if needed.(Ê½Òœøÿÿÿÿ
+p
+java:S1104:"ZMake shutdownServer a static final constant or non-public and provide accessors if needed.(±Ú”
+Q
+java:S1068K"6Remove this unused "debugPercentFormat" private field.(¦åâÆıÿÿÿÿ
+P
+java:S1444‰"4Make this "public static playerExecuted" field final(îŒ¤úÿÿÿÿ
+m
+java:S1104F"WMake pestControl a static final constant or non-public and provide accessors if needed.(­şóù
+n
+java:S11047"XMake UpdateServer a static final constant or non-public and provide accessors if needed.(Ùí‰¤
+l
+java:S1104L"QMake TIMES a static final constant or non-public and provide accessors if needed.(´½Ÿ’şÿÿÿÿ
+D
+java:S14445".Make this "public static sleeping" field final(Â‚œÛ
+G
+java:S1444F"1Make this "public static pestControl" field final(­şóù
+s
+java:S11048"XMake lastMassSave a static final constant or non-public and provide accessors if needed.(îØşÚúÿÿÿÿ
+J
+java:S1444="4Make this "public static canLoadObjects" field final(ÓĞĞ
+M
+java:S14448"2Make this "public static lastMassSave" field final(îØşÚúÿÿÿÿ
+„
+java:S1130^"iRemove the declaration of thrown exception 'java.lang.NullPointerException' which is a runtime exception.(å˜Ù¨ùÿÿÿÿ

@@ -1,0 +1,28 @@
+
+Year : 2013	Month : 7	Day : 10
+Given 1 Iron platebody To Fsa
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Iron full helm To Fsa
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Iron platelegs To Fsa
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Iron boots To Fsa
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Amulet of strength To Fsa
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Team-27 cape To Fsa
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Leather gloves To Fsa
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Anti-dragon shield To Fsa
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Iron scimitar To Fsa
+--------------------------------------------------

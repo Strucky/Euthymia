@@ -1,0 +1,142 @@
+
+Year : 2013	Month : 7	Day : 9
+Given 1 Zamorak godsword To Squashy
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Rune platelegs To Peruna
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Helm of neitiznot To Peruna
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Drag dagger(p++) To Peruna
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Dragon scimitar To Peruna
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Scroll To Red
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Bandos chestplate To Kendal
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 486622 Coins To Peruna
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Ring of recoil To Peruna
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Drag dagger(p++) To Peruna
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Super strength(4) To Peruna
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Super strength(2) To Peruna
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Super defence(2) To Peruna
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Super attack(2) To Peruna
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Super restore(1) To Peruna
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Super attack(4) To Peruna
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Super strength(2) To Peruna
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Super defence(2) To Peruna
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Bandos tassets To Kendal
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Staff of the dead To Kendal
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Abyssal whip To Osmanteri
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Dragon chainbody To River
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 800000 Coins To River
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Tooth half of a key To River
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Dharok's helm To River
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Staff of the dead To Izzy
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 2000000 Coins To Willow
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Dharok's platebody To Willow
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Bandos tassets To Soft
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Armadyl godsword To Soft
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Black partyhat To Soft
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Armadyl c'bow To Soft
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Abyssal tentacle To Soft
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Abyssal tentacle To Brzurk
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Partyhat & specs To Izzy
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Elysian spirit shield To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Armadyl c'bow To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Bandos tassets To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Dharok's platelegs To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Karil's coif To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1 Karil's crossbow To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 10
+Given 1000000 Coins To Teme
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 12
+Given 1 Abyssal tentacle To Osmanteri
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 14
+Given 1 Amulet of fury To Kendal
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 14
+Given 1 Shark To Kendal
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 14
+Given 1 Abyssal whip To Zezima
+--------------------------------------------------
+Year : 2013	Month : 7	Day : 15
+Given 1000000 Coins To Bonesaw bamf
+--------------------------------------------------

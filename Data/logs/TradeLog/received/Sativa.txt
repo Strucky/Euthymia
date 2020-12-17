@@ -1,0 +1,55 @@
+
+Year : 2017	Month : 6	Day : 8
+Received 1 Rune pickaxe From Aguilar
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 8
+Received 1 Dragon pickaxe From Aguilar
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 8
+Received 24 Mithril ore From Aguilar
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 8
+Received 52 Iron ore From Aguilar
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 8
+Received 4 Silver ore From Aguilar
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 8
+Received 2 Uncut emerald From Aguilar
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 8
+Received 2 Uncut ruby From Aguilar
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 8
+Received 2 Uncut diamond From Aguilar
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 8
+Received 3 Uncut opal From Aguilar
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 8
+Received 2 Uncut sapphire From Aguilar
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 8
+Received 1 Ardougne teleport From Aguilar
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 8
+Received 2 Falador teleport From Aguilar
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 8
+Received 2 Lumbridge teleport From Aguilar
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 8
+Received 2 Varrock teleport From Aguilar
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 8
+Received 1 Watchtower t'port From Aguilar
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 8
+Received 2 Camelot teleport From Aguilar
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 8
+Received 1 Dragon defender From Aguilar
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 8
+Received 1 Helm of neitiznot From Aguilar
+--------------------------------------------------

@@ -1,0 +1,79 @@
+
+Year : 2017	Month : 6	Day : 9
+Given 1 Rune scimitar To Mega
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 9
+Given 1 Rune scimitar To Day
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Lamp To Day
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 150000 Coins To Aguilar
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Amulet of glory(4) To Day
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Amulet of glory(4) To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 100 Lobster To Bob
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Mithril sword To Bob
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Rune spear To Bob
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Steel scimitar To Bob
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Air talisman To Bob
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Air talisman To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 2 Varrock teleport To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 1 Lumbridge teleport To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 5 Varrock teleport To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 11
+Given 4 Varrock teleport To Bob
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 12
+Given 1 Anti-dragon shield To Warren pop
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 13
+Given 1 Anti-dragon shield To Nkedfoxy
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 13
+Given 1 Anti-dragon shield To Bigshot
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 13
+Given 1 Prayer potion(4) To Aguilar
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 1 Mithril scimitar To Xipher
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 1 Adamant scimitar To Xipher
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 1 Rune platelegs To Xipher
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 1 Dragon boots To Bigshot
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 1 Dragon boots To Xipher
+--------------------------------------------------
+Year : 2017	Month : 6	Day : 14
+Given 1 Rune full helm To Nkedfoxy
+--------------------------------------------------
