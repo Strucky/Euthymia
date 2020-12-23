@@ -43,7 +43,6 @@ public class ActionHandler {
 					+ " y = " + obY + "\n");
 		StrongHoldOfSecurity.firstClickObject(c, c.objectX, c.objectY,
 				c.objectId);
-		Home.firstClickObject(c, objectType, obX, obY);
 		if (Mining.miningRocks(c, objectType)) {
 			Mining.attemptData(c, objectType, obX, obY);
 			return;
@@ -54,27 +53,27 @@ public class ActionHandler {
 		}
 
 		switch (objectType) {
-		case 13615:
-			c.getPA().startTeleport(3214, 3425, 0, "modern");
-			break;
-		case 13616:
-			c.teleAction = 9062;
-			c.getDH().sendOption4("Armadyl", "Bandos", "Saradomin","Zamorak");
-			break;
-		case 13627:
-			c.getPA().startTeleport(2549, 3112, 0, "modern");
-			break;
-		case 357:
-			if (obX == 2829 && obY == 3352)
-				c.getItems().addItem(732, 1);
-			break;
-		case 2585:
-			if (obX == 2830 && obY == 9522) {
-				c.getPA().movePlayer(2825, 3117, 0);
+			case 13615:
+				c.getPA().startTeleport(3214, 3425, 0, "modern");
+				break;
+			case 13616:
+				c.teleAction = 9062;
+				c.getDH().sendOption4("Armadyl", "Bandos", "Saradomin", "Zamorak");
+				break;
+			case 13627:
+				c.getPA().startTeleport(2549, 3112, 0, "modern");
+				break;
+			case 357:
+				if (obX == 2829 && obY == 3352)
+					c.getItems().addItem(732, 1);
+				break;
+			case 2585:
+				if (obX == 2830 && obY == 9522) {
+					c.getPA().movePlayer(2825, 3117, 0);
 
-			}
-			break;
-		case 21600:
+				}
+				break;
+			case 21600:
 			c.getPA().makeGlobalObject(21600, obX, obY, 2, 0);
 			break;
 		case 21507:
@@ -2225,38 +2224,37 @@ public class ActionHandler {
 
 		c.clickObjectType = 0;
 		c.turnPlayerTo(c.objectX, c.objectY);
-		Home.secondObjectClick(c, objectType, obX, obY);
 		if (c.playerRights == 3)
 			System.out.println("[" + c.playerName + "] sec obj click is "
 					+ objectType + " x = " + obX + " y = " + obY + "\n");
 		// c.sendMessage("Object type: " + objectType);
 		switch (objectType) {
-		case 2584:
-			if (obX == 2824 && obY == 3118) {
-				c.getPA().movePlayer(2830, 9522, 0);
+			case 2584:
+				if (obX == 2824 && obY == 3118) {
+					c.getPA().movePlayer(2830, 9522, 0);
 
-			}
-			break;
+				}
+				break;
 
-		case 11402:
-			c.getPA().openUpBank();
-			break;
-		case 6572:
-			break;
-		case 1739:
-			c.getPA().movePlayer(c.absX, c.absY, 2);
-			break;
-		case 8689:
+			case 11402:
+				c.getPA().openUpBank();
+				break;
+			case 6572:
+				break;
+			case 1739:
+				c.getPA().movePlayer(c.absX, c.absY, 2);
+				break;
+			case 8689:
 
-			if (System.currentTimeMillis() - c.buryDelay > 1500) {
-				if (c.getItems().playerHasItem(1925, 1)) {
-					c.turnPlayerTo(c.objectX, c.objectY);
-					c.startAnimation(2292);
-					c.getItems().addItem(1927, 1);
-					c.getItems().deleteItem(1925, 1);
-					c.buryDelay = System.currentTimeMillis();
-				} else {
-					c.sendMessage("You need a bucket to milk a cow!");
+				if (System.currentTimeMillis() - c.buryDelay > 1500) {
+					if (c.getItems().playerHasItem(1925, 1)) {
+						c.turnPlayerTo(c.objectX, c.objectY);
+						c.startAnimation(2292);
+						c.getItems().addItem(1927, 1);
+						c.getItems().deleteItem(1925, 1);
+						c.buryDelay = System.currentTimeMillis();
+					} else {
+						c.sendMessage("You need a bucket to milk a cow!");
 				}
 			}
 			break;

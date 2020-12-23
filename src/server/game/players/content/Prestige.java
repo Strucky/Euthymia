@@ -1,8 +1,6 @@
 package server.game.players.content;
 
 import server.game.players.Client;
-import server.game.players.packets.ClickingButtons;
-
 
 
 public class Prestige {

@@ -118,7 +118,7 @@ public class InterfaceEvent {
 							"@whi@-@or2@  Exp Lock Status: @gre@" + c.expLock + ".",
 							29163);
 					c.getPA().sendFrame126(
-							"@whi@-@or2@  You are at: @gre@" + City.getCity(c)
+							"@whi@-@or2@  You are at city: @gre@"
 									+ ".", 29164);
 					c.getPA().sendFrame126("@whi@-@or2@  Wave survival points: @gre@" + c.sgPoints,
 							29165);

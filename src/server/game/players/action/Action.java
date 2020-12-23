@@ -1,21 +1,18 @@
 package server.game.players.action;
 
-import server.Server;
-import server.event.Task;
-
-import java.util.ArrayList;
-
 public class Action {
 
     private boolean cancellable = true;
-    private Runnable action = null;
+    private Runnable executetable = null;
     private ExitCondition exitCondition = null;
 
-    public Action(Runnable action) {this.action=action; }
+    public Action(Runnable action) {
+        this.executetable = action;
+    }
 
-    public Action(boolean cancellable, ExitCondition exitCondition, Runnable action) {
+    public Action(boolean cancellable, ExitCondition exitCondition, Runnable executetable) {
         this.cancellable = cancellable;
-        this.action=action;
+        this.executetable = executetable;
         this.exitCondition = exitCondition;
     }
 
@@ -27,11 +24,11 @@ public class Action {
         return cancellable;
     }
 
-    public Runnable getAction() {
-        return action;
+    public Runnable getExecutable() {
+        return executetable;
     }
 
-    public ExitCondition getExitCondition () {
+    public ExitCondition getExitCondition() {
         return exitCondition;
     }
 }

@@ -90,39 +90,39 @@ public class Woodcutting extends SkillHandler {
 		public double getXp() {
 			return xp;
 		}
-		
+
 		public int getLogId() {
 			return logId;
 		}
-		
+
 		public int getStumpId() {
 			return stumpId;
 		}
-		
+
 		public int getRespawnTime() {
 			return respawnTime;
 		}
-		
+
 		public int getDecayChance() {
 			return decayChance;
 		}
 	}
 
-	public static boolean chopTree(final Player c, final int tree, final int obX, final int obY) {
+	public static boolean chopTree(final Client c, final int tree, final int obX, final int obY) {
 		c.turnPlayerTo(obX, obY);
 		final Trees Tree = Trees.getTree(tree);
-		
-		
-		if(Tree == null)
+
+
+		if (Tree == null)
 			return false;
 		if (System.currentTimeMillis() - c.lastThieve < 2500)
 			return false;
-		
-		if (!noInventorySpace(c, "woodcutting")){
+
+		if (!noInventorySpace(c, "woodcutting")) {
 			resetWoodcutting(c);
 			return false;
 		}
-		if (hasAxe(c) && !canUseAxe(c)){
+		if (hasAxe(c) && !canUseAxe(c)) {
 			c.sendMessage("Your Woodcutting level is too low to use this axe.");
 			return false;
 		}

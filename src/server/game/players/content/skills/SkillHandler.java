@@ -43,22 +43,15 @@ public class SkillHandler {
 	}
 
 	public static boolean hasRequiredLevel(Client c, int id, int lvlReq, String skill, String event) {
-		if(c.playerLevel[id] < lvlReq) {
-			c.sendMessage("You haven't got high enough "+skill+" level to "+event+"");
-			c.sendMessage("You at least need the "+skill+" level of "+ lvlReq +".");
-			c.getPA().sendStatement("You haven't got high enough "+skill+" level to "+event+"!");
+		if (c.playerLevel[id] < lvlReq) {
+			c.sendMessage("You haven't got high enough " + skill + " level to " + event + "");
+			c.sendMessage("You at least need the " + skill + " level of " + lvlReq + ".");
+			c.getPA().sendStatement("You haven't got high enough " + skill + " level to " + event + "!");
 			return false;
 		}
 		return true;
 	}
-	public static boolean noInventorySpace(Player c, String skill) {
-		if (c.getItems().freeSlots() == 0) {
-			c.sendMessage("You haven't got enough inventory space to continue "+skill+"!");
-			((PlayerAssistant) c.getPA()).sendStatement("You haven't got enough inventory space to continue "+skill+"!");
-			return false;
-		}
-		return true;
-	}
+
 	public static void deleteTime(Client c) {
 		c.doAmount--;
 	}

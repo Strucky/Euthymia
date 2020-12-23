@@ -1,8 +1,5 @@
 package server.game.players.action;
 
-import server.Server;
-import server.event.Task;
-
 public class ActionManager {
 
     private Action currentAction = null;
@@ -12,7 +9,7 @@ public class ActionManager {
         if (canRunAction()) {
             //System.out.println("Executing");
             currentAction = action;
-            currentAction.getAction().run();
+            currentAction.getExecutable().run();
         }
     }
 

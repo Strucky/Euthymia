@@ -1,11 +1,7 @@
 package server.game.players.content;
 
-import java.awt.Event;
-
-import server.event.EventManager;
 import server.game.npcs.NPCHandler;
 import server.game.players.Client;
-import server.game.players.PlayerHandler;
 import server.game.players.combat.AttackNPC;
 import server.game.players.combat.AttackPlayers;
 import server.game.players.combat.magic.MagicData;
@@ -21,8 +17,6 @@ import server.game.players.combat.melee.MeleeSpecial;
 import server.game.players.combat.range.RangeData;
 import server.game.players.combat.range.RangeExtras;
 import server.game.players.combat.range.RangeMaxHit;
-import server.game.players.packets.AttackPlayer;
-import server.util.Misc;
 
 //import com.sun.corba.se.spi.activation.Server;
 

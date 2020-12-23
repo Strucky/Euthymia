@@ -46,6 +46,7 @@ import server.game.players.content.skills.Slayer;
 import server.game.players.content.skills.Smithing;
 import server.game.players.content.skills.SmithingInterface;
 import server.game.players.content.skills.Thieving;
+import server.game.players.packets.PacketHandler;
 import server.game.players.saving.PlayerSave;
 import server.game.shops.ShopAssistant;
 import server.net.Packet;

@@ -5,8 +5,6 @@ import java.util.ArrayList;
 import server.Server;
 import server.game.objects.Object;
 import server.game.players.Client;
-import server.game.players.Home;
-import server.game.players.Player;
 import server.game.players.PlayerHandler;
 import server.game.players.StrongHoldOfSecurity;
 import server.game.players.content.FlourMill;
@@ -110,40 +108,7 @@ public class ObjectManager {
 	}
 
 	public void Deletewalls(Client c) {
-		/*
-		 * c.getPA().checkObjectSpawn(-1, 3207, 3214, 1, 0);
-		 * c.getPA().checkObjectSpawn(-1, 3207, 3222, 1, 0);
-		 * c.getPA().checkObjectSpawn(-1, 3215, 3225, -1, 0);
-		 * c.getPA().checkObjectSpawn(-1, 3215, 3211, -1, 0);
-		 * c.getPA().checkObjectSpawn(-1, 3208, 3211, -1, 0);
-		 * c.getPA().checkObjectSpawn(-1, 3215, 3211, -1, 10);
-		 * c.getPA().checkObjectSpawn(-1, 3094, 3510, -1, 10);
-		 * c.getPA().checkObjectSpawn(-1, 3095, 3510, -1, 10);
-		 * c.getPA().checkObjectSpawn(-1, 3092, 3511, -1, 10);
-		 * c.getPA().checkObjectSpawn(-1, 3094, 3507, -1, 10);
-		 * c.getPA().checkObjectSpawn(-1, 3095, 3507, -1, 10);
-		 * c.getPA().checkObjectSpawn(-1, 3093, 3512, 1, 10);
-		 * c.getPA().checkObjectSpawn(-1, 3093, 3511, -1, 4);
-		 * c.getPA().checkObjectSpawn(-1, 3093, 3511, -1, 0);
-		 * c.getPA().checkObjectSpawn(-1, 3094, 3511, -1, 0);
-		 * c.getPA().checkObjectSpawn(-1, 3094, 3514, -1, 0);
-		 * c.getPA().checkObjectSpawn(-1, 3094, 3513, -1, 0);
-		 * c.getPA().checkObjectSpawn(-1, 3093, 3514, -1, 0);
-		 * c.getPA().checkObjectSpawn(-1, 3092, 3511, -1, 0);
-		 * c.getPA().checkObjectSpawn(-1, 3091, 3511, -1, 0);
-		 * c.getPA().checkObjectSpawn(-1, 3092, 3506, -1, 0);
-		 */
-		
-		//Eduardo Muñoz
-		c.getPA().checkObjectSpawn(2213, 3234, 3151, 2, 10); //bank
-		c.getPA().checkObjectSpawn(4483, 2991, 9827, 5, 10); //Falador Mine Bank Chest
-		Home.spawnObjects(c);
 		StrongHoldOfSecurity.spawnObjects(c);
-		//arturo
-		//c.getPA().object(-1, 3272, 3185, 0,
-				//10);
-	//	c.getPA().object(2781, 3273, 3185, 0,		10);
-		// shops
 		c.getPA().checkObjectSpawn(4483, 3371, 2973, 5, 10); //shops bank chest
 		c.getPA().checkObjectSpawn(4483, 3371, 2972, 5, 10); //shops bank chest
 		c.getPA().checkObjectSpawn(-1, 3207, 3214, 1, 0);//lummy wall
